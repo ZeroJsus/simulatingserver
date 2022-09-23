@@ -1,3 +1,9 @@
+<!--
+ * @Author: yangrongxin
+ * @Date: 2022-09-23 11:12:48
+ * @LastEditors: yangrongxin
+ * @LastEditTime: 2022-09-23 15:17:59
+-->
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -71,3 +77,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+## 参考文档
+
+[nestjs](https://docs.nestjs.cn/9/firststeps)
